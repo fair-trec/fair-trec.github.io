@@ -36,7 +36,7 @@ h1 {
     padding: 1ex 1em;
   }
   .front header .banner img {
-    max-width: 700px;
+    max-width: 300px;
   }
 }
 
@@ -75,7 +75,7 @@ footer {
   text-align: center;
 }
 .organizer img {
-  width: 80%;
+  width: 60%;
 }
 .organizer .affil {
   font-style: italic;
