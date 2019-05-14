@@ -64,7 +64,7 @@ footer {
     flex-direction: row;
   }
   .organizers .organizer {
-    width: 33%;
+    width: 25%;
     margin: 0;
     padding: 1ex;
     box-sizing: border-box;
