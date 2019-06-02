@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf8">
     <meta name="viewport" content="device-width,initial-scale=1">
-    <title>Fairness at TREC 2019</title>
+    <title>TREC 2019 Fair Ranking Track</title>
     <link rel="icon" href="images/fair-search.png">
     <link rel=stylesheet href="styles.css">
     <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,400i,700,700i,800,800i" rel="stylesheet"> 
@@ -18,18 +18,27 @@
                src="images/search-balloons-small.jpg"
                alt="The word SEARCH made of pink balloons, with each balloon held by a different person's hand.">
       </div>
-      <h1>Fairness Track at <abbr class=sc>TREC</abbr> 2019</h1>
+      <h1><abbr class=sc>TREC</abbr> 2019 Fair Ranking Track</h1>
     </header>
     <section class="info">
-      <p>TREC 2019 will feature a track on fairness in information retrieval. The Fair Ranking track focuses on building two-sided systems that offer fair exposure to ranked content producers while ensuring high results quality for ranking consumers. </p>
+	    <p>The TREC Fair Ranking track evaluates systems according to how well they <i>fairly</i> rank documents.  The 2019 task focuses on re-ranking academic abstracts given a query.  The objective is to fairly represent latent groups of authors.  These groups can be defined in a variety of ways and the track emphasizes the development of systems which have robust performance across a variety of group definitions.  </p>
 
-      Watch this space for more details; data and metrics will be coming in May 2019.
-      
+<p><b>GUIDELINES</b></p>
+<p>We have released the track guidelines, including a description of the dataset, experimentation protocol, and evaluation metrics <a href="doc/guidelines.pdf">here</a>.  We are also releasing <a href="src/query-sequence-generator.py">simulation code</a> to generate query sequences similar to those you will receive in August.</p>
+<p><b>DATA</b></p>
+<p>The corpus for this project is the <a href="http://api.semanticscholar.org/corpus/">Semantic Scholar (S2) Open Corpus</a> from the <a href="https://allenai.org/">Allen Institute for Artificial Intelligence</a>, consisting of 47 1GB data files.   We have an associated <a href="data/fair-TREC-training-sample.json">list of 652 queries and relevance judgments</a>.  For the authors appearing in candidate set, we have <a href="data/fair-TREC-sample-author-groups.csv">example group assignments</a>.  Data formats are described in the <a href="doc/guidelines.pdf">guidelines document</a>. </p>
+<p><b>TIMELINE</b></p>
+<ul>
+	<li><b>June 3, 2019</b>: guidelines, data released; system development begins</li>
+	<li><b>mid August, 2019</b>: evaluation query sequences released</li>
+	<li><b>late August, 2019</b>: submissions due</li>
+	<li><b>late September, 2019</b>: evaluated submissions returned</li>
+</ul>
+<p><b>RESOURCES</b></p>
       <ul>
         <li><a href="https://groups.google.com/d/forum/fair-trec">Join the Google Group</a>
         <li><a href="https://twitter.com/fairtrec">Follow us on Twitter</a>
       </ul>
-    </div>
     <section class=organizers>
       <h2>Organizers</h2>
       <figure class=organizer>
@@ -42,8 +51,8 @@
       <figure class=organizer>
         <img src="images/Fernando-05.jpg" alt="Headshot of Fernando Diaz">
         <figcaption>Fernando Diaz<br>
-          <span class=affil>Fairness, Accountability, Transparency, and Ethics (FATE)</span><br>
-          <span class=affil>Microsoft Research</span></figcaption>
+	  <span class=affil>Microsoft Research</span></figcaption>
+          <span class=affil>Montréal</span>
       </figure>
       <figure class=organizer>
         <img src="images/michael-blue-head.jpg" alt="Headshot of Michael Ekstrand">
@@ -57,6 +66,7 @@
           <span class=affil>Semantic Scholar</span><br>
           <span class=affil>Allen Institute for Artificial Intelligence</span></figcaption>
       </figure>
+    </section>
     </section>
     <footer>
       Copyright ⓒ FAIR TREC organizers. The contents of this page have not been reviewed or approved by
