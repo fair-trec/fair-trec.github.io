@@ -1,0 +1,83 @@
+:root {
+  --head-color: #8CE4E8;
+  --header-font: "Montserrat";
+  --text-font: "Montserrat";
+  --text-size: 15pt;
+}
+
+body {
+  margin: 0;
+  font-family: var(--text-font);
+  font-size: var(--text-size);
+}
+
+h1 {
+  font-family: var(--header-font);
+  font-size: 1.8rem;
+  font-feature-settings: "tnum";
+}
+
+.front header {
+  text-align: center;
+}
+.front header .banner {
+  background-color: var(--head-color);
+  
+}
+.front header .banner img {
+  max-width: 90%;
+}
+.front header h1 {
+  font-size: 3rem;
+  font-weight: 800;
+}
+@media (min-width: 800px) {
+  .front header .banner {
+    padding: 1ex 1em;
+  }
+  .front header .banner img {
+    max-width: 250px;
+  }
+}
+
+footer {
+  text-align: center;
+  padding: 1ex;
+  font-style: italic;
+  font-size: 0.85rem;
+}
+
+.info {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1em;
+  box-sizing: border-box;
+}
+
+.organizers h2 {
+  width: 100%;
+}
+@media (min-width: 800px) {
+  .organizers {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+  }
+  .organizers .organizer {
+    width: 25%;
+    margin: 0;
+    padding: 1ex;
+    box-sizing: border-box;
+  }
+}
+
+.organizer {
+  text-align: center;
+}
+.organizer img {
+  width: 60%;
+}
+.organizer .affil {
+  font-style: italic;
+  font-size: 0.85em;
+}
