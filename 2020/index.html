@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang=en>
+  <head>
+    <meta charset="utf8">
+    <meta name="viewport" content="device-width,initial-scale=1">
+    <title>TREC 2020 Fair Ranking Track</title>
+    <link rel="icon" href="images/fair-search.png">
+    <link rel=stylesheet href="styles.css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,400i,700,700i,800,800i" rel="stylesheet"> 
+  </head>
+  <body class=front>
+    <header>
+      <div class=banner>
+          <img class=banner 
+               srcset="images/search-balloons-small.jpg 700w,
+                       images/search-balloons-med.jpg 1400w,
+                       images/search-balloons.jpg 7000w"
+               src="images/search-balloons-small.jpg"
+               alt="The word SEARCH made of pink balloons, with each balloon held by a different person's hand.">
+      </div>
+      <h1><abbr class=sc>TREC</abbr> 2020 Fair Ranking Track</h1>
+    </header>
+    <section class="info">
+	    <p>The TREC Fair Ranking track evaluates systems according to how well they <i>fairly</i> rank documents. The 2020 focuses on scholarly search and fairly ranking academic abstracts and papers from authors belonging to different groups. </p>
+	    <p>You can find all the information about the 2019 TREC Fair Ranking track <a href="2019/index.html">here</a>. </p>
+
+<p><b>TIMELINE</b></p>
+<ul>
+	<li><b>May 19, 2020</b>: guidelines released.</li>
+	<li><b>July 1, 2020</b>: training queries and corpus released</li>
+	<li><b>August 17, 2020</b>: evaluation queries released</li>
+	<!-- <li><b>August 16, 2020</b>: submission site open</li> -->
+	<li><b>August 28, 2020</b>: submissions due</li>
+	<li><b>late September, 2020</b>: evaluated submissions returned</li>
+</ul>
+
+<p><b>DOWNLOADS</b></p>
+<ul>
+  <li><a href="2020/doc/guidelines-2020.pdf">TREC 2020 Fair Ranking Track Participant Instructions</a>: guidelines, experimentation protocol, and data format description (updated May 19, 2020).</li>
+  <li><a href="https://drive.google.com/drive/folders/1JDQ35ECAOup1BuJ9DLehRHHlsozkwIaz?usp=sharing">TREC 2020 Fair Ranking Track training data</a>: training queries, and a subset of OpenCorpus containing a superset of the training query candidate documents (retrieve from this pool).</a> <b>Note: by downloading the data sample contained in this package, you agree to the <a href="FairTRECDataLicense.pdf">Semantic Scholar Dataset License Agreement</a></b>.</li>
+  <li><a href="https://drive.google.com/drive/folders/1JDQ35ECAOup1BuJ9DLehRHHlsozkwIaz?usp=sharing">TREC 2020 Fair Ranking Track evaluation data</a>: eval queries are in the TREC-Fair-Ranking-eval-sample-no-rel.json file, while the eval sequences are in TREC-Fair-Ranking-eval-seq.csv. For the retrieval task, please retrieve the results from the subset of OpenCorpus provided with the training data.</a> <b>Note: by downloading the data samples contained in this package, you agree to the <a href="FairTRECDataLicense.pdf">Semantic Scholar Dataset License Agreement</a></b>.</li>
+	<li><a href="2020/src/validate-run-rerank.py">validate-run-rerank.py</a>: rerank task submission validation script and example <a href="2020/src/example-solution.json">submission</a>. (updated August 19, 2020).</li>
+	<li><a href="2020/src/validate-run-retrieve.py">validate-run-retrieve.py</a>: retrieval task submission validation script and example <a href="2020/src/example-solution.json">submission</a>. (updated August 19, 2020).</li>
+</ul>
+
+<p><b>RESOURCES</b></p>
+      <ul>
+        <li><a href="https://groups.google.com/d/forum/fair-trec">Google Group</a>
+        <li><a href="https://twitter.com/fairtrec">Twitter</a>
+        <li><a href="https://trectalk.slack.com/archives/GRR5YB0V6">Slack channel</a>
+        <li><a href="2019/index.html">2019 TREC Fair Ranking (archive)</a>
+      </ul>
+
+<p><b>CITATION</b></p>
+General references to the TREC Fair Ranking track should use the following citation,
+<pre style="font-size: 12px; background-color: #cccccc;">
+@inproceedings{trec-fair-ranking-2019,
+	Author = {Asia J. Biega and Fernando Diaz and Michael D. Ekstrand and Sebastian Kohlmeier},
+	Booktitle = {The Twenty-Eighth Text REtrieval Conference (TREC 2019) Proceedings},
+	Title = {Overview of the TREC 2019 Fair Ranking Track},
+	Year = {2019}}
+</pre>
+If you use a specific dataset, please cite the notebook paper associated with the data.
+
+    <section class=organizers>
+      <h2>Organizers</h2>
+      <figure class=organizer>
+        <img src="images/asia.jpg" alt="Headshot of Asia Biega">
+        <figcaption>Asia Biega<br>
+	  <span class=affil>Microsoft Research</span></figcaption>
+          <span class=affil>Montréal</span>
+        </figcaption>
+      </figure>
+      <figure class=organizer>
+        <img src="images/Fernando-05.jpg" alt="Headshot of Fernando Diaz">
+        <figcaption>Fernando Diaz<br>
+	  <span class=affil>Microsoft Research</span></figcaption>
+          <span class=affil>Montréal</span>
+      </figure>
+      <figure class=organizer>
+        <img src="images/michael-blue-head.jpg" alt="Headshot of Michael Ekstrand">
+        <figcaption>Michael Ekstrand<br>
+          <span class=affil>People and Information Research Team (PIReT)</span><br>
+          <span class=affil>Boise State University</span></figcaption>
+      </figure>
+      <figure class=organizer>
+        <img src="images/sebastian.png" alt="Headshot of Sebastian Kohlmeier">
+        <figcaption>Sebastian Kohlmeier<br>
+          <span class=affil>Semantic Scholar</span><br>
+          <span class=affil>Allen Institute</span></figcaption>
+      </figure>
+      <figure class=organizer>
+        <img src="images/sf_headshot.jpg" alt="Headshot of Sergey Feldman">
+        <figcaption>Sergey Feldman<br>
+          <span class=affil>Semantic Scholar</span><br>
+          <span class=affil>Allen Institute</span></figcaption>
+      </figure>
+    </section>
+    </section>
+    <footer>
+      Copyright ⓒ FAIR TREC organizers. The contents of this page have not been reviewed or approved by
+      Boise State University, Microsoft, or NIST, and do not represent the positions or opinions of
+      these organizations.
+    </footer>
+  </body>
+</html>
