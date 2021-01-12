@@ -26,9 +26,14 @@ The TREC 2021 Fair Ranking Track participation guidelines, experimentation proto
 - [2019 TREC Fair Ranking (archive)](2019/index.html) 
 - [2020 TREC Fair Ranking (archive)](2020/index.html)
 
-## Citation
+## Past Years
 
-General references to the TREC Fair Ranking track should use the following citation,
+- [2020](2020/)
+- [2019](2019/)
+
+### Citation
+
+General references to the TREC Fair Ranking track should use the following citation:
 
 ```bibtex
 @inproceedings{trec-fair-ranking-2019,
