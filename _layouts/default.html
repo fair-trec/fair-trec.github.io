@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang=en>
+  <head>
+    <meta charset="utf8">
+    <meta name="viewport" content="device-width,initial-scale=1">
+    <title>{{page.title}}</title>
+    <link rel="icon" href="/images/fair-search.png">
+    <link rel=stylesheet href="/styles.css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,400i,700,700i,800,800i" rel="stylesheet"> 
+  </head>
+  <body class=front>
+    <header>
+      <div class=banner>
+          <img class=banner 
+               srcset="images/search-balloons-small.jpg 700w,
+                       images/search-balloons-med.jpg 1400w,
+                       images/search-balloons.jpg 7000w"
+               src="images/search-balloons-small.jpg"
+               alt="The word SEARCH made of pink balloons, with each balloon held by a different person's hand.">
+      </div>
+      <h1>{{page.title}}</h1>
+    </header>
+    <main>
+        {{content}}
+    </main>
+    <footer>
+      Copyright ⓒ FAIR TREC organizers. The contents of this page have not been reviewed or approved by
+      Boise State University, University of Glasgow, Wikimedia Foundation or NIST, and do not represent the positions or opinions of
+      these organizations.
+    </footer>
+  </body>
+</html>
