@@ -20,6 +20,7 @@ The TREC 2021 Fair Ranking Track participation guidelines, experimentation proto
 
 ## Resources
 
+- [How To TREC](how-to-trec) 
 - [Google Group](https://groups.google.com/d/forum/fair-trec)
 - [Twitter](https://twitter.com/fairtrec) 
 - [Slack channel](https://trectalk.slack.com/archives/GRR5YB0V6)
