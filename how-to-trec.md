@@ -86,6 +86,6 @@ No. Notebooks are published in the *TREC Proceedings*, but are not peer-reviewed
 
 # Where can I ask more questions?
 If you have more questions about participating in the TREC Fair Ranking Track, feel free to ask a question in the [Google Group](https://groups.google.com/d/forum/fair-trec) or e-mail the organizers:
-- Michael Ekstrand: michaelekstrand@boisestate.edu
-- Graham McDonald: graham.mcdonald@glasgow.ac.uk
-- Amifa Raj: AmifaRaj@u.boisestate.edu
+- Michael Ekstrand: <michaelekstrand@boisestate.edu>
+- Graham McDonald: <graham.mcdonald@glasgow.ac.uk>
+- Amifa Raj: <AmifaRaj@u.boisestate.edu>
