@@ -73,4 +73,11 @@ If you use a specific dataset, please cite the notebook paper associated with th
     <figcaption>Isaac Johnson<br>
       <span class=affil>Wikimedia Foundation</span></figcaption>
   </figure>
+
+
+  <figure class=organizer>
+    <img src="images/Warncke-Wang_Morten.jpg" alt="Headshot of Morten Warncke-Wang">
+    <figcaption>Morten Warncke-Wang<br>
+      <span class=affil>Wikimedia Foundation</span></figcaption>
+  </figure>
 </section>
