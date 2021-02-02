@@ -7,7 +7,11 @@ title: How To TREC
 This page provides an overview of the Text REtrieval Conference (TREC) and details of how to participate. 
 
 # What’s the short version?
-TREC is a community activity to produce shared tasks and data sets for information retrieval research.
+
+TREC is a community activity to produce “shared tasks” and data sets for information retrieval (IR) research.
+Shared tasks are common problems and data sets that are used to advance research in IR, by enabling multiple groups to solve the same search problem (general goal and specific queries) on the same data set, and build and compare their solutions.
+They have similarities to other kinds of challenges, benchmarks, and leaderboards, but with a focus on producing durable research artifacts.
+
 Your team can register to participate, which gives you access to this year’s data and the opportunity to have your methods and results evaluated and included in the conference proceedings, and also for you to present and discuss them with other participants at the TREC conference.
 
 There is a two-step process where training data is first made available for teams to develop their system approaches over a period of a couple of months, before the evaluation data (without relevance labels) is released close to submission time and teams submit their systems’ test data results.
@@ -27,6 +31,13 @@ One key difference between TREC and challenges is that TREC is **strictly pre-co
 # What is a TREC Track?
 TREC is organized into tracks, such as Fair Ranking, Precision Medicine, and Conversational Assistance. Each track provides a corpus of documents and 1-2 tasks: defined information retrieval tasks that participants build systems to address. The tasks usually provide a set of queries (called topics), and participants submit their systems’ responses to the queries. The task organizers then evaluate these responses and score each submission. Within this structure, the precise details can vary from track to track and year to year.
 
+# What is the TREC Fair Ranking track?
+
+The *Fair Ranking* track is a TREC track in which search results are evaluated not only on their relevance or utility but on their *fairness*.
+In the first two years (2019 and 2020), it was a scholarly search problem: rerank search results for research articles (from Semantic Scholar) to ensure that researchers from less prestigious positions or institutions are not systematically under-represented in the final rankings.
+
+This year, the track is based on Wikipedia; the framing problem is a search tool to help editors find articles to edit, with the goal of providing fair attention to articles across various dimensions.
+More details are coming soon.
 
 # What is the social benefit of TREC?
 TREC has been instrumental in catalyzing information retrieval research and development. Besides the community and professional development it affords to participants, it produces durable artifacts (test collections) that enable substantial ongoing research. Each track and task typically results in a data set consisting of:
@@ -71,7 +82,6 @@ Due to its nature as a pre-competitive meeting focused on shared work, TREC part
 
 
 The process up until the published notebook paper is semi-open: the call for participation is open to the public, but only registered participants have access to the early versions of the notebook papers and to the material presented at TREC itself. It’s something of a trade: by participating in and contributing to TREC, you get advance access to the work and insights of your peers working on the same problems. After the participants have had a chance to write up their work and submit it to SIGIR, the final notebook papers are published to allow the broader public to see what was done at TREC.
-
 
 # What are the deadlines for the Fair Ranking Track?
 - Register by mid-February
