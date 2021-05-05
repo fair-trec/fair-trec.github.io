@@ -17,7 +17,7 @@ The 2021 track focuses on fairly prioritising Wikimedia articles for editing to 
 
 The TREC 2021 Fair Ranking Track participation guidelines, experimentation protocol, data and evaluation scripts will be available here.
 - [Participant Instructions](docs/Fair_Ranking_2021_Participant_Instructions.pdf) 
-- [Corpus](https://data.boisestate.edu/library/Ekstrand-2021/TRECFairRanking2021/trec_corpus.json) 
+- [Corpus](https://data.boisestate.edu/library/Ekstrand-2021/TRECFairRanking2021/trec_corpus.json.gz) 
 - [Topics File](https://data.boisestate.edu/library/Ekstrand-2021/TRECFairRanking2021/trec_topics.json.gz) 
 - [Metadata File](https://data.boisestate.edu/library/Ekstrand-2021/TRECFairRanking2021/trec_metadata.json.gz) 
 
