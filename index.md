@@ -9,7 +9,7 @@ The 2021 track focuses on fairly prioritising Wikimedia articles for editing to 
 
 - **April/May, 2021**: guidelines released.
 - **June/July, 2021**: training queries and corpus released
-- **August, 2021**: evaluation queries released
+- **July, 2021**: evaluation queries released
 - **August, 2021**: submissions due
 - **September, 2021**: evaluated submissions returned
 
