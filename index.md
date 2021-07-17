@@ -10,7 +10,7 @@ The 2021 track focuses on fairly prioritising Wikimedia articles for editing to 
 - **April/May, 2021**: guidelines released.
 - **June/July, 2021**: training queries and corpus released
 - **July, 2021**: evaluation queries released
-- **August, 2021**: submissions due
+- **August 2, 2021**: submissions due
 - **September, 2021**: evaluated submissions returned
 
 ## Downloads
@@ -19,7 +19,8 @@ The TREC 2021 Fair Ranking Track participation guidelines, experimentation proto
 
 - [Participant Instructions](docs/Fair_Ranking_2021_Participant_Instructions.pdf)
 - [Corpus](https://data.boisestate.edu/library/Ekstrand-2021/TRECFairRanking2021/trec_corpus.json.gz) (direct link, 15GB)
-- [Topics File](https://data.boisestate.edu/library/Ekstrand-2021/TRECFairRanking2021/trec_topics.json.gz) (direct link, 54MB)
+- [Training topics File](https://data.boisestate.edu/library/Ekstrand-2021/TRECFairRanking2021/trec_topics.json.gz) (direct link, 54MB)
+- [Evaluation topics file](https://drive.google.com/file/d/1jGyjB7qOt45jakb32ZtroSkxs5sq5gvU/view?usp=sharing)
 - [Metadata File](https://data.boisestate.edu/library/Ekstrand-2021/TRECFairRanking2021/trec_metadata.json.gz)  (direct link, 6.9MB)
 
 The files are also available from a [Globus repository](https://boi.st/TREC2021Globus). Most US research universities, and many other institutions, support Globus; you can also download the files with [Globus Connect Personal](https://www.globus.org/globus-connect-personal).
