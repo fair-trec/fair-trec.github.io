@@ -23,7 +23,7 @@ The TREC 2021 Fair Ranking Track participation guidelines, experimentation proto
 - [Evaluation topics file](https://data.boisestate.edu/library/Ekstrand-2021/TRECFairRanking2021/eval-topics.json.gz) (direct link)
 - [Metadata File](https://data.boisestate.edu/library/Ekstrand-2021/TRECFairRanking2021/trec_metadata.json.gz)  (direct link, 6.9MB)
 
-The files are also available from a [Globus repository](https://boi.st/TREC2021Globus). Most US research universities, and many other institutions, support Globus; you can also download the files with [Globus Connect Personal](https://www.globus.org/globus-connect-personal).
+The files are also available from a [Globus repository](https://boi.st/TREC2021Globus). Most US research universities, and many other institutions, support Globus; you can also download the files with [Globus Connect Personal](https://www.globus.org/globus-connect-personal).  You can also access the file repository by HTTP through the [Boise State data repository](https://data.boisestate.edu/library/Ekstrand-2021/TRECFairRanking2021/).
 
 
 ## Resources
