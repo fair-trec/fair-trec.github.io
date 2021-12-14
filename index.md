@@ -1,29 +1,21 @@
 ---
-title: TREC 2021 Fair Ranking Track
+title: TREC 2022 Fair Ranking Track
 ---
 
-The TREC Fair Ranking track evaluates systems according to how well they *fairly* rank documents. 
-The 2021 track focuses on fairly prioritising Wikimedia articles for editing to provide a fair exposure to articles from different groups.
+The TREC Fair Ranking track evaluates systems according to how well they *fairly* rank documents.<br><br> 
+The 2022 track focuses on fairly prioritising Wikimedia articles for editing to provide a fair exposure to articles from different groups.
 
 ## Tentative Timeline
 
-- **April/May, 2021**: guidelines released.
-- **June/July, 2021**: training queries and corpus released
-- **July, 2021**: evaluation queries released
-- **August 2, 2021**: submissions due
-- **September, 2021**: evaluated submissions returned
+- **April/May, 2022**: guidelines released.
+- **June/July, 2022**: training queries and corpus released
+- **July, 2022**: evaluation queries released
+- **August, 2022**: submissions due
+- **September, 2022**: evaluated submissions returned
 
 ## Downloads
 
-The TREC 2021 Fair Ranking Track participation guidelines, experimentation protocol, data and evaluation scripts will be available here.
-
-- [Participant Instructions](docs/Fair_Ranking_2021_Participant_Instructions.pdf)
-- [Corpus](https://data.boisestate.edu/library/Ekstrand-2021/TRECFairRanking2021/trec_corpus.json.gz) (direct link, 15GB)
-- [Training topics File](https://data.boisestate.edu/library/Ekstrand-2021/TRECFairRanking2021/trec_topics.json.gz) (direct link, 54MB)
-- [Evaluation topics file](https://data.boisestate.edu/library/Ekstrand-2021/TRECFairRanking2021/eval-topics.json.gz) (direct link)
-- [Metadata File](https://data.boisestate.edu/library/Ekstrand-2021/TRECFairRanking2021/trec_metadata.json.gz)  (direct link, 6.9MB)
-
-The files are also available from a [Globus repository](https://boi.st/TREC2021Globus). Most US research universities, and many other institutions, support Globus; you can also download the files with [Globus Connect Personal](https://www.globus.org/globus-connect-personal).  You can also access the file repository by HTTP through the [Boise State data repository](https://data.boisestate.edu/library/Ekstrand-2021/TRECFairRanking2021/).
+The TREC 2022 Fair Ranking Track participation guidelines, experimentation protocol, data and evaluation scripts will be made available here.
 
 
 ## Resources
@@ -34,10 +26,11 @@ The files are also available from a [Globus repository](https://boi.st/TREC2021G
 - [Slack channel](https://trectalk.slack.com/archives/GRR5YB0V6)
 - [2019 TREC Fair Ranking (archive)](2019/index.html) 
 - [2020 TREC Fair Ranking (archive)](2020/index.html)
+- [2021 TREC Fair Ranking (archive)](2021/index.md)
 
 ## Citation
 
-General references to the TREC Fair Ranking track should use the following citation:
+General references to the TREC Fair Ranking Track should use the following citation:
 
 ```bibtex
 @inproceedings{trec-fair-ranking-2019,
