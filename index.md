@@ -30,14 +30,14 @@ The TREC 2022 Fair Ranking Track participation guidelines, experimentation proto
 
 ## Citation
 
-General references to the TREC Fair Ranking Track should use the following citation:
+References to the TREC 2021 Fair Ranking Track should use the following citation:
 
 ```bibtex
-@inproceedings{trec-fair-ranking-2019,
-  Author = {Asia J. Biega and Fernando Diaz and Michael D. Ekstrand and Sebastian Kohlmeier},
-  Booktitle = {The Twenty-Eighth Text REtrieval Conference (TREC 2019) Proceedings},
-  Title = {Overview of the TREC 2019 Fair Ranking Track},
-  Year = {2019}
+@inproceedings{trec-fair-ranking-2021,
+  Author = {Michael D. Ekstrand and Graham McDonald and Amifa Raj and Isaac Johnson},
+  Booktitle = {The Thirtieth Text REtrieval Conference (TREC 2021) Proceedings},
+  Title = {Overview of the TREC 2021 Fair Ranking Track},
+  Year = {2022}
 }
 ```
 
