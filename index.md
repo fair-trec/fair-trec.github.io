@@ -7,7 +7,7 @@ The 2022 track focuses on fairly prioritising Wikimedia articles for editing to 
 
 ## Tentative Timeline
 
-- **April/May, 2022**: guidelines released.
+- **May, 2022**: guidelines released.
 - **June/July, 2022**: training queries and corpus released
 - **July, 2022**: evaluation queries released
 - **Beginning of August, 2022**: submissions due
@@ -17,6 +17,7 @@ The 2022 track focuses on fairly prioritising Wikimedia articles for editing to 
 
 The TREC 2022 Fair Ranking Track participation guidelines, experimentation protocol, data and evaluation scripts will be made available here.
 
+- [Participant Instructions](docs/Fair_Ranking_2022_Participant_Instructions.pdf)
 
 ## Resources
 
