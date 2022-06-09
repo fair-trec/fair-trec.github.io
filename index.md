@@ -18,6 +18,8 @@ The 2022 track focuses on fairly prioritising Wikimedia articles for editing to 
 The TREC 2022 Fair Ranking Track participation guidelines, experimentation protocol, data and evaluation scripts will be made available here.
 
 - [Participant Instructions](docs/Fair_Ranking_2022_Participant_Instructions.pdf)
+- [Corpus](https://data.boisestate.edu/library/Ekstrand/TRECFairRanking/corpus/)
+- [2022 Topics and Metadata](https://data.boisestate.edu/library/Ekstrand/TRECFairRanking/2022/)
 
 ## Resources
 
