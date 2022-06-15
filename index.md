@@ -8,9 +8,9 @@ The 2022 track focuses on fairly prioritising Wikimedia articles for editing to 
 ## Tentative Timeline
 
 - **May, 2022**: guidelines released.
-- **June/July, 2022**: training queries and corpus released
+- **June, 2022**: training queries and corpus released
 - **July, 2022**: evaluation queries released
-- **Beginning of August, 2022**: submissions due
+- **August, 2022**: submissions due
 - **September, 2022**: evaluated submissions returned
 
 ## Downloads
