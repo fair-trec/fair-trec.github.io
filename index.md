@@ -5,12 +5,12 @@ title: TREC 2022 Fair Ranking Track
 The TREC Fair Ranking track evaluates systems according to how well they *fairly* rank documents.<br><br> 
 The 2022 track focuses on fairly prioritising Wikimedia articles for editing to provide a fair exposure to articles from different groups.
 
-## Tentative Timeline
+## Timeline
 
 - **May, 2022**: guidelines released.
 - **June, 2022**: training queries and corpus released
 - **July, 2022**: evaluation queries released
-- **August, 2022**: submissions due
+- **31st August, 2022**: submissions due
 - **September, 2022**: evaluated submissions returned
 
 ## Downloads
@@ -20,6 +20,7 @@ The TREC 2022 Fair Ranking Track participation guidelines, experimentation proto
 - [Participant Instructions](docs/Fair_Ranking_2022_Participant_Instructions.pdf)
 - [Corpus](https://data.boisestate.edu/library/Ekstrand/TRECFairRanking/corpus/)
 - [2022 Topics and Metadata](https://data.boisestate.edu/library/Ekstrand/TRECFairRanking/2022/)
+- [2022 Eval Topics](https://drive.google.com/file/d/1vNiJnKTZf-_SF6LiM_-XAFArfGly0lC1/view)
 
 ## Resources
 
