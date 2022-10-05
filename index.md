@@ -31,6 +31,7 @@ The TREC 2022 Fair Ranking Track participation guidelines, experimentation proto
 - [2019 TREC Fair Ranking (archive)](2019/index.html) 
 - [2020 TREC Fair Ranking (archive)](2020/index.html)
 - [2021 TREC Fair Ranking (archive)](2021/index.md)
+- [NTCIR 2023 Fair Web track](http://sakailab.com/fairweb1/) — if you want more fair ranking!
 
 ## Citation
 
